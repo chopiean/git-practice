@@ -1,1 +1,7 @@
 Once upon a time there was a student learning Git. They practiced commits and branching...
+This is a temporary line for the stash test.
+<<<<<<< Updated upstream
+Long ago, there was a student learning Git with great enthusiasm.
+=======
+This is a temporary line for the stash test.
+>>>>>>> Stashed changes
