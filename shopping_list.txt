@@ -6,3 +6,4 @@ Coffee
 Apples
 Cheese
 Chocolate
+Green tea
