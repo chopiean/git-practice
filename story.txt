@@ -1,4 +1,4 @@
-Once upon a time there was a student learning Git. They practiced commits and branching...
+This line is written directly on GitHub.
 This is a temporary line for the stash test.
 <<<<<<< Updated upstream
 Long ago, there was a student learning Git with great enthusiasm.
