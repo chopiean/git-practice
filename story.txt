@@ -1,1 +1,8 @@
+
 This line is written locally to test a merge conflict.
+This line is written directly on GitHub.
+This is a temporary line for the stash test.
+
+Long ago, there was a student learning Git with great enthusiasm.
+
+This is a temporary line for the stash test.
