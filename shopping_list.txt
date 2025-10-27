@@ -4,3 +4,4 @@ Bread
 Butter
 Coffee
 Apples
+Cheese
